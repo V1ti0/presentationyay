@@ -3,7 +3,7 @@
 
 ![presentation_image](Images/mixed_reality.png)
 
-Quest ce que c'est?
+## Quest ce que c'est?
 
 La Réalité Mixte est un pont entre le monde réel et le domaine virtuel!
 C'est une fusion dynamique de la Réalité Augmentée , de la Réalité Virtuelle et de l'environnement réel.
