@@ -11,7 +11,7 @@ La Réalité Mixte fusionne de manière transparente les éléments numériques 
 
 Types de Réalité Mixte
 
-1) Réalité Augmentée Virtuelle (RAV) : Ici, les éléments du monde réel sont intégrés dans des environnements virtuels, enrichissant l'expérience numérique.
-2) Réalité Augmentée (RA) : La RA superpose un contenu numérique à notre vue du monde réel via des appareils comme les smartphones ou les lunettes de RA.
-3) Réalité Virtuelle (RV) : La RV plonge les utilisateurs dans des environnements totalement synthétiques, déconnectés du monde réel.
+1) Réalité Augmentée Virtuelle : Ici, les éléments du monde réel sont intégrés dans des environnements virtuels, enrichissant l'expérience numérique.
+2) Réalité Augmentée : Superpose un contenu numérique à notre vue du monde réel via des appareils comme les smartphones ou les lunettes de RA.
+3) Réalité Virtuelle : Plonge les utilisateurs dans des environnements totalement synthétiques, déconnectés du monde réel.
 
