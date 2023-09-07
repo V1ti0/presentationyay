@@ -2,4 +2,4 @@
 
 ## Concept
 
-![Images/wavetable_ex_1.jpg](wavetable)
+![wavetable](Images/wavetable_ex_1.jpg)
