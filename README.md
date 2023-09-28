@@ -1,4 +1,4 @@
-Understood, you'd like to merge the concept summary of "The Time-Linked Heist" with the previous Mixed Reality Escape Room presentation in French. Here's the updated presentation with the concept summary included:
+
 
 ---
 
