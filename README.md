@@ -75,4 +75,7 @@ Dans «Le Fric-frac du Temps», les joueurs se retrouvent plongés dans une exp�
 ## Comment Ça Fonctionne :
 - Les joueurs portent des casques de RV pour entrer dans le monde cyberpunk, tandis que la salle speakeasy sert de monde physique.
 - L'objectif est de voler le Chronomètre Temporel depuis la cachette de Frankie dans le monde cyberpunk.
-- Les joueurs doivent trouver des indices et résoudre des énigmes dans les années
+- Les joueurs doivent trouver des indices et résoudre des énigmes dans les années 1920 et dans le monde cyberpunk pour découvrir l'emplacement et les détails de sécurité du Chronomètre.
+
+## Jouabilité :
+- Dans la salle speakeasy, les joueurs interagissent avec des objets et des personnages de l'époque.
