@@ -66,7 +66,7 @@
 
 ## Le Fric-frac du Temps : Un Scénario Unique
 
-Dans "Le Fric-frac du Temps", les joueurs se retrouvent plongés dans une expérience inédite de Salle d'Évasion en Réalité Mixte, évoluant dans deux mondes parallèles : un speakeasy des années 1920 et un univers cyberpunk futuriste. L'intrigue tourne autour d'un gangster voyageant dans le temps, Victor "Le Roi Chrono" Grimaldi, qui détient un mystérieux dispositif appelé le "Chronomètre Temporel." Ce dispositif lui permet de manipuler le temps et de réaliser des cambriolages élaborés à travers l'histoire.
+Dans «Le Fric-frac du Temps», les joueurs se retrouvent plongés dans une expérience inédite de Salle d'Évasion en Réalité Mixte, évoluant dans deux mondes parallèles : un speakeasy des années 1920 et un univers cyberpunk futuriste. L'intrigue tourne autour d'un gangster voyageant dans le temps, Frankie «Le Roi Chrono» Grimaldi, qui détient un mystérieux dispositif appelé le «Chronomètre Temporel». Ce dispositif lui permet de manipuler le temps et de réaliser des cambriolages élaborés à travers l'histoire.
 
 ## Mise en Place du Jeu :
 - La salle d'évasion physique représente le speakeasy des années 1920, avec des passages secrets, une décoration d'époque et des énigmes rappelant la période de la Prohibition.
@@ -74,5 +74,5 @@ Dans "Le Fric-frac du Temps", les joueurs se retrouvent plongés dans une expér
 
 ## Comment Ça Fonctionne :
 - Les joueurs portent des casques de RV pour entrer dans le monde cyberpunk, tandis que la salle speakeasy sert de monde physique.
-- L'objectif est de voler le Chronomètre Temporel depuis la cachette de Victor dans le monde cyberpunk.
+- L'objectif est de voler le Chronomètre Temporel depuis la cachette de Frankie dans le monde cyberpunk.
 - Les joueurs doivent trouver des indices et résoudre des énigmes dans les années
